@@ -1,3 +1,9 @@
+/*
+Title - Terningspill to player
+Authors - Kristoffer-Andre Kalliainen og Peder Aalen Wiig
+Version - v1.0.0
+*/
+
 let har_trillt = false
 let terning = 0
 input.onGesture(Gesture.Shake, () => {
