@@ -10,9 +10,9 @@ Last inn hex-filen på to stk micro:bit
  - Vinneren vil få spillt av en en lyd og få ett hjerte på skjermen.
  - Taperen får en trist lyd og ett kryss på skjermen.
 
+### Micro:bit blokk og JavaScript editor
+Lenke til prosjektet finner du [her](https://pxt.microbit.org/32609-31880-04140-71846)
+
 ### Kode i blokk-format
 ![microbit](https://github.com/h181192/P05-Microbit/blob/master/posters/blokkformat.png?raw=true)
 
-
-### Micro:bit blokk og JavaScript editor
-Trykk på lenken [her](https://pxt.microbit.org/?lang=no).
