@@ -1,5 +1,6 @@
 # P05-Microbit
 ![bilderavmicrobit](https://github.com/h181192/P05-Microbit/blob/master/posters/microbit_2_1024x1024.jpg?raw=true)
+#Author Kristoffer kallianen og Peder Aalen
 
 ## Terningspill med to spillere
 Med [micro:bit](http://microbit.org/no/) kan du spille terning spill med en venn.
@@ -16,4 +17,6 @@ Lenke til prosjektet finner du [her](https://pxt.microbit.org/32609-31880-04140-
 
 ### Kode i blokk-format
 ![microbit](https://github.com/h181192/P05-Microbit/blob/master/posters/blokkformat.png?raw=true)
+
+
 
