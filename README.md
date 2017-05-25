@@ -1,5 +1,5 @@
 # P05-Microbit
-![bilderavmicrobit](https://cdn.shopify.com/s/files/1/0176/3274/products/microbit_2_1024x1024.jpg?v=1477646080)
+![bilderavmicrobit](https://github.com/h181192/P05-Microbit/blob/master/posters/microbit_2_1024x1024.jpg?raw=true)
 
 ## Terningspill med to spillere
 Med [micro:bit](http://microbit.org/no/) kan du spille terning spill med en venn.
